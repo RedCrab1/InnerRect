@@ -27,3 +27,4 @@ Find the max inner Rect in image
 
 最后生成结果：
 
+![image](https://github.com/RedCrab1/InnerRect/blob/main/InnerRect_image.png)
